@@ -1,39 +1,76 @@
-# Hi, I'm Lydia 👋
+<h1 align="center">Hi, I'm Lydia 👋</h1>
 
-**[中文](../README.md) | English**
+<p align="center"><strong>A curious mind, building with AI.</strong></p>
 
-> A non-technical background, a curious mind, and ideas I like to bring to life with AI.
+<p align="center">
+  <strong>English</strong> · <a href="README.zh-CN.md">中文</a>
+</p>
 
-I'm **Lydia**, a **master's student at Nankai University**, expected to graduate in **2027**. I come from a non-technical background and have little coding experience, but I enjoy experimenting with AI and turning ideas into small things people can actually try and use.
+<p align="center">
+  🎓 <code>Nankai University · Master's Student</code><br>
+  🌱 <code>Class of 2027</code> · 🤖 <code>AI Tinkerer</code>
+</p>
 
-## 🤖 Currently Exploring
+<p align="center">
+  A non-technical background and little coding experience — but plenty of ideas.<br>
+  I enjoy using AI to make small things that are useful, interesting, or simply fun.
+</p>
 
-- **From ideas to prototypes** — using AI to turn ideas into something tangible
-- **Everyday automation** — making repetitive and messy tasks a bit easier
-- **Learning by making** — starting small, testing fast, and improving along the way
+<p align="center">
+  <a href="github-profile-bilingual/en/About.md">👋 About Me</a> ·
+  <a href="github-profile-bilingual/en/Skills.md">🧰 Skills & Practice</a>
+</p>
 
-## 📂 Explore My Profile
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Section | What you'll find |
-| :--- | :--- |
-| [👋 About Me](About.md) | Background, interests, and what I like to explore |
-| [💼 Internships](Internship.md) | Experience in AI product, ads strategy, e-commerce operations, and market analysis |
-| [🧪 Projects & Research](Projects.md) | Research, business case projects, and mathematical modeling |
-| [🏆 Honors & Awards](Awards.md) | Academic honors and competition awards |
-| [🧰 Skills & Practice](Skills.md) | Methods and tools I have used in internships and projects |
+<h2>💼 Internships</h2>
+<p>Exploring AI, data, and business in practice.</p>
 
-## 💼 Experience Snapshot
+<p><strong>Alibaba · Taotian</strong><br>
+<code>AI Product</code><br>
+AI-assisted product review and evaluation.</p>
 
-- **Alibaba Taotian** — AI Product Intern
-- **ByteDance TikTok Shop** — Ads Strategy Intern
-- **JD Jingxi** — E-commerce Operations
-- **AstraZeneca** — Marketing Intern
+<p><strong>ByteDance · TikTok Shop</strong><br>
+<code>Ads Strategy</code><br>
+AIGC creatives and automated data workflows.</p>
 
-## 🏆 Selected Honors
+<p><strong>JD · Jingxi</strong><br>
+<code>E-commerce Operations</code><br>
+Product selection, promotions, and advertising.</p>
 
-- 🎓 **2025 Shanghai Outstanding Graduate**
-- 🏅 **National Scholarship, 2022 / 2023 / 2024**
-- 💼 **First Prize, National Competition for College Students in Accounting and Business Management Case Analysis**
-- 📊 **Second Prize in Shanghai, China Undergraduate Mathematical Contest in Modeling**
+<p><strong>AstraZeneca</strong><br>
+<code>Marketing</code><br>
+Market analysis and brand support.</p>
 
-[View full awards →](Awards.md)
+<p><a href="github-profile-bilingual/en/Internship.md"><strong>Explore my internships →</strong></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h2>🧪 Projects & Research</h2>
+<ul>
+<li><strong>Corporate research</strong> — CSR disclosure, competitiveness, and ESG.</li>
+<li><strong>Creative economy</strong> — urban mobility of creative talent.</li>
+<li><strong>Business cases</strong> — energy storage, strategy, and financial analysis.</li>
+<li><strong>Mathematical modeling</strong> — heliostat field layout optimization.</li>
+</ul>
+<p><a href="github-profile-bilingual/en/Projects.md"><strong>Explore my projects →</strong></a></p>
+
+<h2>🏆 Selected Honors</h2>
+<ul>
+<li><strong>Shanghai Outstanding Graduate</strong></li>
+<li><strong>National Scholarship × 3</strong> — three consecutive years</li>
+<li><strong>Shanghai Silver Award</strong> — “Challenge Cup” university student entrepreneurship plan competition</li>
+<li><strong>Shanghai Second Prize</strong> — undergraduate mathematical modeling competition</li>
+</ul>
+<p><a href="github-profile-bilingual/en/Awards.md"><strong>View all awards →</strong></a></p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="github-profile-bilingual/en/README.md">📂 Explore my full profile</a>
+</p>
