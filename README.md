@@ -1,39 +1,39 @@
-# 你好，我是 Lydia 👋
+# Hi, I'm Lydia 👋
 
-**中文 | [English](en/README.md)**
+**[中文](../README.md) | English**
 
-> 非技术背景，也想把有意思的想法变成现实。
+> A non-technical background, a curious mind, and ideas I like to bring to life with AI.
 
-我是 **Lydia**，一名预计 **2027 年毕业的南开大学硕士研究生**。基本不会写代码，但喜欢折腾 AI，尝试把脑海里的点子做成可以体验、可以使用的小东西。
+I'm **Lydia**, a **master's student at Nankai University**, expected to graduate in **2027**. I come from a non-technical background and have little coding experience, but I enjoy experimenting with AI and turning ideas into small things people can actually try and use.
 
-## 🤖 正在折腾
+## 🤖 Currently Exploring
 
-- **把想法做出来**：用 AI 把点子变成原型。
-- **让日常更省力**：尝试自动化处理重复、麻烦的事情。
-- **在动手中学习**：边做边学，边试边改。
+- **From ideas to prototypes** — using AI to turn ideas into something tangible
+- **Everyday automation** — making repetitive and messy tasks a bit easier
+- **Learning by making** — starting small, testing fast, and improving along the way
 
-## 📂 认识我
+## 📂 Explore My Profile
 
-| 板块 | 你可以在这里看到 |
+| Section | What you'll find |
 | :--- | :--- |
-| [👋 个人简介](About.md) | 我的背景、兴趣与探索方向 |
-| [💼 实习经历](Internship.md) | AI 产品、广告策略、电商运营与市场分析 |
-| [🧪 项目经历](Projects.md) | 科研、商业案例与数学建模 |
-| [🏆 获奖记录](Awards.md) | 学业荣誉与竞赛奖项 |
-| [🧰 技能与实践](Skills.md) | 在项目与实习中接触的方法和工具 |
+| [👋 About Me](About.md) | Background, interests, and what I like to explore |
+| [💼 Internships](Internship.md) | Experience in AI product, ads strategy, e-commerce operations, and market analysis |
+| [🧪 Projects & Research](Projects.md) | Research, business case projects, and mathematical modeling |
+| [🏆 Honors & Awards](Awards.md) | Academic honors and competition awards |
+| [🧰 Skills & Practice](Skills.md) | Methods and tools I have used in internships and projects |
 
-## 💼 经历一览
+## 💼 Experience Snapshot
 
-- **阿里巴巴 · 淘天事业部** — AI 产品实习生
-- **字节跳动 · TikTok Shop** — 广告策略实习生
-- **京东 · 京喜事业部** — 电商运营（采销）
-- **阿斯利康 · 中央市场部** — 市场实习生
+- **Alibaba Taotian** — AI Product Intern
+- **ByteDance TikTok Shop** — Ads Strategy Intern
+- **JD Jingxi** — E-commerce Operations
+- **AstraZeneca** — Marketing Intern
 
-## 🏆 荣誉精选
+## 🏆 Selected Honors
 
-- 🎓 **上海市优秀毕业生**
-- 🏅 **连续三年国家奖学金**
-- 💼 **全国高校商业精英挑战赛会计与商业管理案例竞赛一等奖**
-- 📊 **全国大学生数学建模竞赛上海市二等奖**
+- 🎓 **2025 Shanghai Outstanding Graduate**
+- 🏅 **National Scholarship, 2022 / 2023 / 2024**
+- 💼 **First Prize, National Competition for College Students in Accounting and Business Management Case Analysis**
+- 📊 **Second Prize in Shanghai, China Undergraduate Mathematical Contest in Modeling**
 
-[查看完整获奖记录 →](Awards.md)
+[View full awards →](Awards.md)
