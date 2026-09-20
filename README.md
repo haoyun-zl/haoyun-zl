@@ -1,16 +1,39 @@
-## Hi there 👋
+# 你好，我是 Lydia 👋
 
-<!--
-**haoyun-zl/haoyun-zl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**中文 | [English](en/README.md)**
 
-Here are some ideas to get you started:
+> 非技术背景，也想把有意思的想法变成现实。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我是 **Lydia**，一名预计 **2027 年毕业的南开大学硕士研究生**。基本不会写代码，但喜欢折腾 AI，尝试把脑海里的点子做成可以体验、可以使用的小东西。
+
+## 🤖 正在折腾
+
+- **把想法做出来**：用 AI 把点子变成原型。
+- **让日常更省力**：尝试自动化处理重复、麻烦的事情。
+- **在动手中学习**：边做边学，边试边改。
+
+## 📂 认识我
+
+| 板块 | 你可以在这里看到 |
+| :--- | :--- |
+| [👋 个人简介](About.md) | 我的背景、兴趣与探索方向 |
+| [💼 实习经历](Internship.md) | AI 产品、广告策略、电商运营与市场分析 |
+| [🧪 项目经历](Projects.md) | 科研、商业案例与数学建模 |
+| [🏆 获奖记录](Awards.md) | 学业荣誉与竞赛奖项 |
+| [🧰 技能与实践](Skills.md) | 在项目与实习中接触的方法和工具 |
+
+## 💼 经历一览
+
+- **阿里巴巴 · 淘天事业部** — AI 产品实习生
+- **字节跳动 · TikTok Shop** — 广告策略实习生
+- **京东 · 京喜事业部** — 电商运营（采销）
+- **阿斯利康 · 中央市场部** — 市场实习生
+
+## 🏆 荣誉精选
+
+- 🎓 **上海市优秀毕业生**
+- 🏅 **连续三年国家奖学金**
+- 💼 **全国高校商业精英挑战赛会计与商业管理案例竞赛一等奖**
+- 📊 **全国大学生数学建模竞赛上海市二等奖**
+
+[查看完整获奖记录 →](Awards.md)
